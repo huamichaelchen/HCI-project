@@ -1,6 +1,7 @@
 # Leap-OVR-HCI-Project
 A human computer interaction course project for Acadia University
 
-Mostly using LeapMotion SDK code and prefab 
+Implemented with Oculus Rift + LeapMotion.
 
-More to come :) 
+Mostly using LeapMotion SDK code and prefab
+
